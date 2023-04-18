@@ -1,6 +1,6 @@
 # Aluguel de imóveis - Canadá
 
-Porjeto aplica tecnicas de analise de dados a fim de entender e relacionar o mercado para que investidores e proprietários tenham maior visão estrategica akudando assim em suas tomadas de decisões.
+Porjeto aplica tecnicas de analise de dados a fim de entender e relacionar o mercado para que investidores e proprietários tenham maior visão estrategica ajudando assim em suas tomadas de decisões.
 
 Todos os dados foram retirados do portal da [Inside Airbnb](http://insideairbnb.com/get-the-data.html). Para esta análise utilizei o arquivo: `canada.csv`, onde no mesmo portal é encontrado uma base de dados bem maior e mais completa.
 
